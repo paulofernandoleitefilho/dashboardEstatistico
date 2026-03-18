@@ -1,4 +1,5 @@
 Dashboard de Análise Estatística com R e Shiny
+
 Este projeto consiste em uma aplicação web interativa desenvolvida em linguagem R, utilizando o framework Shiny para a visualização de dados e execução de inferências estatísticas em tempo real. A arquitetura é baseada no modelo reativo, permitindo a atualização dinâmica de outputs conforme a alteração de inputs de controle.
 
 Arquitetura da Aplicação
